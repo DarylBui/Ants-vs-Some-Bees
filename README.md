@@ -1,2 +1,2 @@
 # Ants-vs-Some-Bees
-A spinoff the popular game "Plants vs. Zombies" in which the user defends the ant colony against a swarm of bees.
+A spinoff the popular game "Plants vs. Zombies" in which the user defends the ant colony against a swarm of bees. The project was a class project for CS61a at UC Berkeley. It is merely a game that showcases the usefulness of classes. There is a visual representation of the game with instructions on how to load it located in the files. The project is complete. Maintainer: Daryl Bui.
